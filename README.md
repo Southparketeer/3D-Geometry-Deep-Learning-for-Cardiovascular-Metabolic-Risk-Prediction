@@ -10,5 +10,5 @@ Map 3D geometry information to 2D. Train the 2D embedded maps with convolutional
 
 ### Result Evaulation
 
-### Hyperparameter Tuning with Bayesian Hyperparameter Optimization
+### Hyperparameter Tuning with Bayesian Optimization
 
