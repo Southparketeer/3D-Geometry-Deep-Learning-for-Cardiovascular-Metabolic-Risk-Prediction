@@ -8,7 +8,7 @@ Map 3D geometry information to 2D. Train the 2D embedded maps with convolutional
 ## Training Model
 ### Convolutional Neural Network Architecture
 
-### Accuracy Evaulation
+### Accuracy Evaluation
 
 ### Hyperparameter Tuning with Bayesian Optimization
 
