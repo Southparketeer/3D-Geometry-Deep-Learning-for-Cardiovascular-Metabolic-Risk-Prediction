@@ -4,7 +4,7 @@ Map 3D geometry information to 2D. Train the 2D embedded maps with convolutional
 ## Overview
 
 <p align="center">
-<img width="300" src= demo/3D_Shape_Embedding.png>
+<img width="600" src= demo/3D_Shape_Embedding.png>
 </p>
 
 ## Information Mapping
