@@ -13,11 +13,11 @@ We propose to unify the 3D geometry space with the 2D image space for each indiv
 ## Training Model
 ### Convolutional Neural Network Architecture
 <p align="center">
-<img width="500" src= demo/Structure.png>
+<img width="650" src= demo/TensorBoard.png>
 </p>
 ### Accuracy Evaluation
 <p align="center">
-<img width="650" src= demo/ROC.png>
+<img width="500" src= demo/ROC.png>
 </p>
 
 * N = 2000, Train = 75%, Test = 25% 
