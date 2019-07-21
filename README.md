@@ -11,7 +11,7 @@ We propose to unify the 3D geometry space with the 2D image space for each indiv
 </p>
 
 ## Training Model
-### Convolutional Neural Network Architecture
+### Convolutional Neural Network Architecture (Visualize with TensorBoard)
 <p align="center">
 <img width="650" src= demo/TensorBoard.png>
 </p>
