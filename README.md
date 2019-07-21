@@ -17,7 +17,12 @@ We propose to unify the 3D geometry space with the 2D image space for each indiv
 <p align="center">
 <img width="450" src= demo/ROC.png>
 </p>
-Accuracy: 0.93 (N = 2000, 80% Train, 20% Test) 
+
+N = 2000, Train = 80%, Test = 20% 
+Train Log-loss: 0.1625
+Train Accuracy: 0.9373
+Test Log-loss: 0.1678
+Test Accuracy: 0.9320
 
 ### Hyperparameter Tuning with Bayesian Optimization
 
