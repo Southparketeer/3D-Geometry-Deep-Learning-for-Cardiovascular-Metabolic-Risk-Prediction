@@ -11,12 +11,6 @@ We propose to unify the 3D geometry space with the 2D image space for each indiv
 </p>
 
 ## Training Model
-### Learning Visualization with TensorBoard
-<p align="center">
-<img width="650" src= demo/TensorBoard_UI.png>
-</p>
-
-
 ### Convolutional Neural Network Architecture
 <p align="center">
 <img width="650" src= demo/TensorBoard.png>
