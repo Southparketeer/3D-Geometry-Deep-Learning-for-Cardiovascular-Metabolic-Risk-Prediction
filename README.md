@@ -17,11 +17,10 @@ We propose to unify the 3D geometry space with the 2D image space for each indiv
 </p>
 
 ### Accuracy Evaluation
+N = 2000, Train = 75%, Test = 25% 
 <p align="center">
 <img width="500" src= demo/ROC.png>
 </p>
-
-* N = 2000, Train = 75%, Test = 25% 
 
 ### Hyperparameter Tuning with Bayesian Optimization
 
