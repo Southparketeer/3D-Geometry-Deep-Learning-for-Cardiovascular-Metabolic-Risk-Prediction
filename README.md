@@ -17,9 +17,14 @@ We propose to unify the 3D geometry space with the 2D image space for each indiv
 </p>
 
 ### Accuracy Evaluation
-N = 2000, Train = 75%, Test = 25% 
+We evaluate the training accuracy based on our baseline CNN structure (as shown above). The sample size N = 2000, we split data into 75% training and 25% testing.
+
 <p align="center">
-<img width="500" src= demo/ROC.png>
+<img width="800" src= demo/TensorBoard_epoch.png>
+</p>
+
+<p align="center">
+<img width="400" src= demo/ROC.png>
 </p>
 
 ### Hyperparameter Tuning with Bayesian Optimization
