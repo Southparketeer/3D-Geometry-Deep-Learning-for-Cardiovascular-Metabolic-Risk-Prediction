@@ -13,7 +13,7 @@ We propose to unify the 3D geometry space with the 2D image space for each indiv
 ## Training Model
 ### Convolutional Neural Network Architecture
 <p align="center">
-<img width="350" src= demo/Structure.png>
+<img width="500" src= demo/Structure.png>
 </p>
 ### Accuracy Evaluation
 <p align="center">
