@@ -61,7 +61,9 @@ Dependency:
 
 ## Reference
 [1] Lu, Yao, Scott McQuade, and James K. Hahn. "3d shape-based body composition prediction model using machine learning." In 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, pp. 3999-4002. IEEE, 2018.
+
 [2] Lu, Yao, James Kwangjune Hahn, and Xiaoke Zhang. "3D Shape-based Body Composition Inference Model Using A Bayesian Network." IEEE journal of biomedical and health informatics (2019).
+
 [3] Wang, Qiyue, Lu, Yao, Zhang, Xiaoke, and James K. Hahn, "A novel hybrid model for VAT prediction using shape descriptors." In 2019 41th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE, 2019.
 
 
