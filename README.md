@@ -29,6 +29,11 @@ We evaluate the training accuracy based on our baseline CNN structure (as shown 
 
 ### Hyperparameter Tuning with Bayesian Optimization
 
+<p align="center">
+<img width="600" src= demo/HyperParameter.png>
+</p>
+
+
 ## Reference
 [1] Lu, Yao, Scott McQuade, and James K. Hahn. "3d shape-based body composition prediction model using machine learning." In 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 3999-4002. IEEE, 2018.
 
