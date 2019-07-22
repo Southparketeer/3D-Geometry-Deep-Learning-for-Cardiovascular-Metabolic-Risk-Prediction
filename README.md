@@ -62,7 +62,7 @@ Dependency:
 * Runtime config: Python3, GPU
 
 ## Reference
-[1] Lu, Yao, Scott McQuade, and James K. Hahn. "3d shape-based body composition prediction model using machine learning." In 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, pp. 3999-4002. IEEE, 2018.
+[1] Lu, Yao, Scott McQuade, and James K. Hahn. "3d shape-based body composition prediction model using machine learning." In 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE, 2018.
 
 [2] Lu, Yao, James Kwangjune Hahn, and Xiaoke Zhang. "3D Shape-based Body Composition Inference Model Using A Bayesian Network." IEEE journal of biomedical and health informatics (2019).
 
