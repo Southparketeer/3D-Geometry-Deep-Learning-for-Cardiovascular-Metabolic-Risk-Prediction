@@ -27,6 +27,9 @@ We evaluate the training accuracy based on our baseline CNN structure (as shown 
 <img width="400" src= demo/ROC.png>
 </p>
 
+For more implementation and accuracy evaluation details, please check out the code:
+https://github.com/Southparketeer/3D-Geometry-Deep-Learning-for-Cardiovascular-Metabolic-Risk-Prediction/blob/master/BaselineCNN_Visual_TensorBoard_ROC.ipynb
+
 ### Hyperparameter Tuning with Bayesian Optimization
 To design a deep learning model, there are many hyperparameters that you can adjust, e.g., number of layers, number of neurons, activation functions, different coefficients like learning rate, drop rate, etc. Different with the weight (i.e., parameters) of the neural network, which can be optimized in backpropagation, the hyperparameters cannot be learned as part of neural network training. To specify the these hyperparameters so that we optimize the model design, we adopt Bayesian Hyperparameter Optimization. We apply Bayesian optimization on three hyperparameters that we care about: number of CNN layers, learning rate, and dropout rate.     
 
@@ -34,6 +37,8 @@ To design a deep learning model, there are many hyperparameters that you can adj
 <img width="900" src= demo/HyperParameter.PNG>
 </p>
 
+For more implementation and validation details, please check out the code:
+https://github.com/Southparketeer/3D-Geometry-Deep-Learning-for-Cardiovascular-Metabolic-Risk-Prediction/blob/master/Hyperparameter_Analysis_Bayesian_Optimization.ipynb
 
 ## Reference
 [1] Lu, Yao, Scott McQuade, and James K. Hahn. "3d shape-based body composition prediction model using machine learning." In 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 3999-4002. IEEE, 2018.
