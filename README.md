@@ -28,6 +28,7 @@ We evaluate the training accuracy based on our baseline CNN structure (as shown 
 </p>
 
 ### Hyperparameter Tuning with Bayesian Optimization
+To design a deep learning model, there are many hyperparameters that you can adjust, e.g., number of layers, number of neurons, activation functions, different coefficients like learning rate, drop rate, etc. Different with the weight (i.e., parameters) of the neural network, which can be optimized in backpropagation, the hyperparameters cannot be learned as part of neural network training. To specify the these hyperparameters so that we optimize the model design, we adopt Bayesian Hyperparameter Optimization. We apply Bayesian optimization on three hyperparameters that we care about: number of CNN layers, learning rate, and dropout rate.     
 
 <p align="center">
 <img width="900" src= demo/HyperParameter.PNG>
