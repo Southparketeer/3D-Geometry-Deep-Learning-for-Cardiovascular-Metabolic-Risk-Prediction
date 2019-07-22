@@ -4,7 +4,7 @@ Map 3D geometry information to 2D. Train the 2D embedded maps with convolutional
 ## Overview
 
 ## Information Embedding
-We propose to unify the 3D geometry space with the 2D image space for each individual body shape sample to make 3D geometry trainable in a convolutional neural network. The unified 3D-2D space [1] aims to transform arbitrary 3D geometry into a representation that lossless convertible between 3D and 2D space. 
+We propose to unify the 3D geometry space with the 2D image space for each individual body shape sample to make 3D geometry trainable in a convolutional neural network. The unified 3D-2D space [1][2][3] aims to transform arbitrary 3D geometry into a representation that lossless convertible between 3D and 2D space. 
 
 <p align="center">
 <img width="500" src= demo/3D_Shape_Embedding.png>
@@ -60,6 +60,9 @@ Dependency:
 * Runtime config: Python3, GPU
 
 ## Reference
-[1] Lu, Yao, Scott McQuade, and James K. Hahn. "3d shape-based body composition prediction model using machine learning." In 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 3999-4002. IEEE, 2018.
+[1] Lu, Yao, Scott McQuade, and James K. Hahn. "3d shape-based body composition prediction model using machine learning." In 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, pp. 3999-4002. IEEE, 2018.
+[2] Lu, Yao, James Kwangjune Hahn, and Xiaoke Zhang. "3D Shape-based Body Composition Inference Model Using A Bayesian Network." IEEE journal of biomedical and health informatics (2019).
+[3] Wang, Qiyue, Lu, Yao, Zhang, Xiaoke, and James K. Hahn, "A novel hybrid model for VAT prediction using shape descriptors." In 2019 41th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE, 2019.
+
 
 
