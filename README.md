@@ -40,6 +40,14 @@ To design a deep learning model, there are many hyperparameters that you can adj
 For more implementation and validation details, please check out the code:
 https://github.com/Southparketeer/3D-Geometry-Deep-Learning-for-Cardiovascular-Metabolic-Risk-Prediction/blob/master/Hyperparameter_Analysis_Bayesian_Optimization.ipynb
 
+## Install
+* __3D Geometry Embedding__ 
+Dependency:
+(1) VCG library http://vcg.isti.cnr.it/vcglib/ for geometry processing
+(2) libpng http://www.libpng.org/pub/png/libpng.html for read and write image as .png
+(3) zlib https://www.zlib.net/ for installing libpng
+* __BaselineCNN_Visual_TensorBoard_ROC.ipynb__ run on google CoLab, runtime config: Python3 GPU
+* __Hyperparameter_Analysis_Bayesian_Optimization.ipynb__ run on google CoLab, runtime config: Python3 GPU
 ## Reference
 [1] Lu, Yao, Scott McQuade, and James K. Hahn. "3d shape-based body composition prediction model using machine learning." In 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 3999-4002. IEEE, 2018.
 
