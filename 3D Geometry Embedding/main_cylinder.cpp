@@ -13,8 +13,8 @@ using namespace std;
 using namespace Eigen;
 using namespace vcg;
 
-string ROOT_out = "D:\\Interview YaoLu\\TensorFlow\\caesar-norm-wsx-fitted-meshes\\CMesh\\";
-string ROOT_out_image = "D:\\Interview YaoLu\\TensorFlow\\caesar-norm-wsx-fitted-meshes\\CCylinder\\";
+string ROOT_out = "D:TensorFlowTrain\\CMesh\\";
+string ROOT_out_image = "D:TensorFlowTrain\\CCylinder\\";
 
 
 void helper(CMeshO& mesh, int w, int h, bool* mask, const string& outputpath) {
@@ -50,8 +50,8 @@ int main() {
 	}
 	for(int k = 1; k <= 4300; k++) {
 		CMeshO mesh_process;
-		Log::LoadMesh(string(ROOT_out + "CAESAR_Mesh_" + to_string(k) + ".ply").c_str(), mesh_process);
-		string output = string(ROOT_out_image + "CAESAR_Cylinder_Depth_" + to_string(k) + ".png");
+		Log::LoadMesh(string(ROOT_out + "Mesh_" + to_string(k) + ".ply").c_str(), mesh_process);
+		string output = string(ROOT_out_image + "Cylinder_Depth_" + to_string(k) + ".png");
 		helper(mesh_process, w, h, mask, output);		
 	}
 	return 0;
