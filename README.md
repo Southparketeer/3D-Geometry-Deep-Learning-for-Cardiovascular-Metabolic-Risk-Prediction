@@ -28,6 +28,7 @@ We evaluate the training accuracy based on our baseline CNN structure (as shown 
 </p>
 
 For more implementation and accuracy evaluation details, please check out the code:
+
 https://github.com/Southparketeer/3D-Geometry-Deep-Learning-for-Cardiovascular-Metabolic-Risk-Prediction/blob/master/BaselineCNN_Visual_TensorBoard_ROC.ipynb
 
 ### Hyperparameter Tuning with Bayesian Optimization
@@ -38,6 +39,7 @@ To design a deep learning model, there are many hyperparameters that you can adj
 </p>
 
 For more implementation and validation details, please check out the code:
+
 https://github.com/Southparketeer/3D-Geometry-Deep-Learning-for-Cardiovascular-Metabolic-Risk-Prediction/blob/master/Hyperparameter_Analysis_Bayesian_Optimization.ipynb
 
 ## Install
