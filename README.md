@@ -30,7 +30,7 @@ We evaluate the training accuracy based on our baseline CNN structure (as shown 
 ### Hyperparameter Tuning with Bayesian Optimization
 
 <p align="center">
-<img width="800" src= demo/HyperParameter.PNG>
+<img width="900" src= demo/HyperParameter.PNG>
 </p>
 
 
